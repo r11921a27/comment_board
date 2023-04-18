@@ -3,7 +3,9 @@
   "version": "2021.09",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "start": "node app",
+    "build": "exit 0",
+    "start": "yarn start"
   },
   "dependencies": {
     "art-template": "^4.13.2",
