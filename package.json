@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node app",
     "build": "exit 0",
-    "start": "yarn start"
+    "install": "yarn install"
   },
   "dependencies": {
     "art-template": "^4.13.2",
